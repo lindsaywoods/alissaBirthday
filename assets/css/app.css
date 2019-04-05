@@ -86,7 +86,7 @@ html, body {
 }
 
 body {
-  background-color: #fff;
+  /* background-color: #fff; */
   color: #505050;
   margin: 0;
   padding: 0;
@@ -99,7 +99,7 @@ img, svg {
 }
 
 body {
-  background-image: url("/assets/olivia-henry-296-unsplash.jpg");
+  background-image: url("/assets/images/olivia-henry-296-unsplash.jpg");
   background-position: inherit;
   background-repeat: no-repeat;
   background-size: cover;
